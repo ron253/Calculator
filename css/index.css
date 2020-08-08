@@ -1,0 +1,42 @@
+/* body */
+body {
+  background-color:#bbf1c8;
+}
+
+
+
+
+/* main section */
+#main {
+  padding-top:10%;
+
+}
+
+
+/* previous and current */
+#main h1 {
+  color:white;
+  font-size:24px;
+}
+
+.previous, .current {
+  background-color:#342b38;
+  word-wrap:break-word;
+  word-break:break-all;
+
+}
+
+.previous span {
+  font-size:0.625em;
+}
+
+.col-previous, .col-current {
+  display:flex;
+  justify-content: flex-end;
+}
+
+/* buttons */
+
+button {
+  background-color:#ff9595;
+}
